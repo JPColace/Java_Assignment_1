@@ -1,0 +1,44 @@
+ ------ Test Case: 0 ----
+Error: Unable to access jarfile streaming_wars.jar
+Error: No such container:path: streamingwars:/usr/src/cs6310/stream_test_initial_00_results.txt
+Error: No such container:path: streamingwars:/usr/src/cs6310/diff_results_00.txt
+ ------ Test Case: 1 ----
+Error: Unable to access jarfile streaming_wars.jar
+Error: No such container:path: streamingwars:/usr/src/cs6310/stream_test_initial_01_results.txt
+Error: No such container:path: streamingwars:/usr/src/cs6310/diff_results_01.txt
+ ------ Test Case: 2 ----
+Error: Unable to access jarfile streaming_wars.jar
+Error: No such container:path: streamingwars:/usr/src/cs6310/stream_test_initial_02_results.txt
+Error: No such container:path: streamingwars:/usr/src/cs6310/diff_results_02.txt
+ ------ Test Case: 3 ----
+Error: Unable to access jarfile streaming_wars.jar
+Error: No such container:path: streamingwars:/usr/src/cs6310/stream_test_initial_03_results.txt
+Error: No such container:path: streamingwars:/usr/src/cs6310/diff_results_03.txt
+ ------ Test Case: 4 ----
+Error: Unable to access jarfile streaming_wars.jar
+Error: No such container:path: streamingwars:/usr/src/cs6310/stream_test_initial_04_results.txt
+Error: No such container:path: streamingwars:/usr/src/cs6310/diff_results_04.txt
+ ------ Test Case: 5 ----
+Error: Unable to access jarfile streaming_wars.jar
+Error: No such container:path: streamingwars:/usr/src/cs6310/stream_test_initial_05_results.txt
+Error: No such container:path: streamingwars:/usr/src/cs6310/diff_results_05.txt
+ ------ Test Case: 6 ----
+Error: Unable to access jarfile streaming_wars.jar
+Error: No such container:path: streamingwars:/usr/src/cs6310/stream_test_initial_06_results.txt
+Error: No such container:path: streamingwars:/usr/src/cs6310/diff_results_06.txt
+ ------ Test Case: 7 ----
+Error: Unable to access jarfile streaming_wars.jar
+Error: No such container:path: streamingwars:/usr/src/cs6310/stream_test_initial_07_results.txt
+Error: No such container:path: streamingwars:/usr/src/cs6310/diff_results_07.txt
+ ------ Test Case: 8 ----
+Error: Unable to access jarfile streaming_wars.jar
+Error: No such container:path: streamingwars:/usr/src/cs6310/stream_test_initial_08_results.txt
+Error: No such container:path: streamingwars:/usr/src/cs6310/diff_results_08.txt
+ ------ Test Case: 9 ----
+Error: Unable to access jarfile streaming_wars.jar
+Error: No such container:path: streamingwars:/usr/src/cs6310/stream_test_initial_09_results.txt
+Error: No such container:path: streamingwars:/usr/src/cs6310/diff_results_09.txt
+ ------ Test Case: 10 ----
+Error: Unable to access jarfile streaming_wars.jar
+Error: No such container:path: streamingwars:/usr/src/cs6310/stream_test_initial_10_results.txt
+Error: No such container:path: streamingwars:/usr/src/cs6310/diff_results_10.txt
